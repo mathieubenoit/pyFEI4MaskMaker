@@ -74,8 +74,9 @@ MakeRectangle(70-x,16-y,75-x,18-y,bits)
 MakeRectangle(75-x,14-y,80-x,16-y,bits)
 
 
-
+#ATLAS Logo
 DoImage("msu_atlas_logo.gif",bits)
+
 #DoImage("homer.gif",bits)
 
 WriteBits(bits,f)
